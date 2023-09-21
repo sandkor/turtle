@@ -1,0 +1,27 @@
+
+.paddingTop 
+{
+    padding-top: 50px;
+}
+
+.paddingLeft 
+{
+    padding-left: 100px !important;
+}
+
+.noPadding 
+{
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.forceFloatNone 
+{
+    float: none !important;
+}
+
+body {
+    background:#333 url("brick_wall.png") repeat;
+}
