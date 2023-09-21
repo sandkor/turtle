@@ -1,0 +1,10 @@
+#txtOutput {
+    width:400px;
+    height: 60px;
+    background-color:#FFF;
+    color:#680f0f;
+    font-family:Courier, monospace;
+    font-weight:normal;
+    font-size:18px;
+    float: left;
+}
